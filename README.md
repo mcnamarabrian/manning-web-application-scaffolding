@@ -1,0 +1,1 @@
+# manning-web-application-scaffolding
